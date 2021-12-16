@@ -1,0 +1,1056 @@
+C:\Users\ivancea\Desktop\CodeChallenge\7\Program.cs(55,27): warning CS8629: Un tipo que acepta valores NULL puede ser nulo. [C:\Users\ivancea\Desktop\CodeChallenge\7\7.csproj]
+Welcome, my friend! You are at the beginning of a long dark dungeon. What do you want to do? Enter order (empty line or 'bye' for finish):
+north - south - east - west - look - where am I - go to x,y - is exit? - bye
+>> where am I
+(0, 0)
+>> go to 0,0
+Great movement. Here is your new position: (0, 0)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west
+>> go to 1,0
+Great movement. Here is your new position: (1, 0)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north west east
+>> go to 1,1
+Great movement. Here is your new position: (1, 1)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 1,2
+Great movement. Here is your new position: (1, 2)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: south west
+>> go to 2,2
+Great movement. Here is your new position: (2, 2)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north west east
+>> go to 2,3
+Great movement. Here is your new position: (2, 3)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 2,4
+Great movement. Here is your new position: (2, 4)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: south west
+>> go to 3,4
+Great movement. Here is your new position: (3, 4)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north west east
+>> go to 3,5
+Great movement. Here is your new position: (3, 5)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 3,6
+Great movement. Here is your new position: (3, 6)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 3,7
+Great movement. Here is your new position: (3, 7)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: south west east
+>> go to 4,7
+Great movement. Here is your new position: (4, 7)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: east
+>> go to 2,0
+Great movement. Here is your new position: (2, 0)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 3,0
+Great movement. Here is your new position: (3, 0)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 4,0
+Great movement. Here is your new position: (4, 0)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 5,0
+Great movement. Here is your new position: (5, 0)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 6,0
+Great movement. Here is your new position: (6, 0)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north east
+>> go to 6,1
+Great movement. Here is your new position: (6, 1)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 6,2
+Great movement. Here is your new position: (6, 2)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: south west east
+>> go to 5,2
+Great movement. Here is your new position: (5, 2)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west
+>> go to 7,2
+Great movement. Here is your new position: (7, 2)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: east
+>> go to 3,2
+Great movement. Here is your new position: (3, 2)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: east
+>> go to 4,4
+Great movement. Here is your new position: (4, 4)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 5,4
+Great movement. Here is your new position: (5, 4)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 6,4
+Great movement. Here is your new position: (6, 4)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north east
+>> go to 6,5
+Great movement. Here is your new position: (6, 5)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south west
+>> go to 7,5
+Great movement. Here is your new position: (7, 5)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 8,5
+Great movement. Here is your new position: (8, 5)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 9,5
+Great movement. Here is your new position: (9, 5)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 10,5
+Great movement. Here is your new position: (10, 5)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 11,5
+Great movement. Here is your new position: (11, 5)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 12,5
+Great movement. Here is your new position: (12, 5)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 13,5
+Great movement. Here is your new position: (13, 5)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south west east
+>> go to 14,5
+Great movement. Here is your new position: (14, 5)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 15,5
+Great movement. Here is your new position: (15, 5)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: east
+>> go to 13,4
+Great movement. Here is your new position: (13, 4)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 13,3
+Great movement. Here is your new position: (13, 3)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south east
+>> go to 12,3
+Great movement. Here is your new position: (12, 3)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 11,3
+Great movement. Here is your new position: (11, 3)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 10,3
+Great movement. Here is your new position: (10, 3)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 9,3
+Great movement. Here is your new position: (9, 3)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: south west east
+>> go to 9,2
+Great movement. Here is your new position: (9, 2)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 9,1
+Great movement. Here is your new position: (9, 1)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north west
+>> go to 10,1
+Great movement. Here is your new position: (10, 1)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: south west east
+>> go to 10,0
+Great movement. Here is your new position: (10, 0)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north
+>> go to 13,2
+Great movement. Here is your new position: (13, 2)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 13,1
+Great movement. Here is your new position: (13, 1)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north west east
+>> go to 12,1
+Great movement. Here is your new position: (12, 1)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 14,1
+Great movement. Here is your new position: (14, 1)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 15,1
+Great movement. Here is your new position: (15, 1)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: south east
+>> go to 15,0
+Great movement. Here is your new position: (15, 0)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north west
+>> go to 16,0
+Great movement. Here is your new position: (16, 0)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 17,0
+Great movement. Here is your new position: (17, 0)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 18,0
+Great movement. Here is your new position: (18, 0)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 19,0
+Great movement. Here is your new position: (19, 0)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: east
+>> go to 13,6
+Great movement. Here is your new position: (13, 6)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: south
+>> go to 6,6
+Great movement. Here is your new position: (6, 6)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 6,7
+Great movement. Here is your new position: (6, 7)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: south west
+>> go to 7,7
+Great movement. Here is your new position: (7, 7)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north west east
+>> go to 8,7
+Great movement. Here is your new position: (8, 7)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 9,7
+Great movement. Here is your new position: (9, 7)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: east
+>> go to 7,8
+Great movement. Here is your new position: (7, 8)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 7,9
+Great movement. Here is your new position: (7, 9)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 7,10
+Great movement. Here is your new position: (7, 10)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south west
+>> go to 8,10
+Great movement. Here is your new position: (8, 10)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 9,10
+Great movement. Here is your new position: (9, 10)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 10,10
+Great movement. Here is your new position: (10, 10)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 11,10
+Great movement. Here is your new position: (11, 10)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south west east
+>> go to 12,10
+Great movement. Here is your new position: (12, 10)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 13,10
+Great movement. Here is your new position: (13, 10)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south east
+>> go to 13,11
+Great movement. Here is your new position: (13, 11)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: south west
+>> go to 14,11
+Great movement. Here is your new position: (14, 11)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 15,11
+Great movement. Here is your new position: (15, 11)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 16,11
+Great movement. Here is your new position: (16, 11)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north west east
+>> go to 16,12
+Great movement. Here is your new position: (16, 12)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 16,13
+Great movement. Here is your new position: (16, 13)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 16,14
+Great movement. Here is your new position: (16, 14)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: south west east
+>> go to 17,14
+Great movement. Here is your new position: (17, 14)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 18,14
+Great movement. Here is your new position: (18, 14)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 19,14
+Great movement. Here is your new position: (19, 14)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north east
+>> go to 19,15
+Great movement. Here is your new position: (19, 15)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 19,16
+Great movement. Here is your new position: (19, 16)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 19,17
+Great movement. Here is your new position: (19, 17)
+>> is exit?
+Yes. Congratulations, you found the exit door
+>> look
+Well, well, well, my friend. You could do these movements: south east
+>> go to 18,17
+Great movement. Here is your new position: (18, 17)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north west
+>> go to 18,18
+Great movement. Here is your new position: (18, 18)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 18,19
+Great movement. Here is your new position: (18, 19)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: south east
+>> go to 17,19
+Great movement. Here is your new position: (17, 19)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 16,19
+Great movement. Here is your new position: (16, 19)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: south west
+>> go to 16,18
+Great movement. Here is your new position: (16, 18)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north east
+>> go to 15,18
+Great movement. Here is your new position: (15, 18)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 14,18
+Great movement. Here is your new position: (14, 18)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 13,18
+Great movement. Here is your new position: (13, 18)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: south west
+>> go to 13,17
+Great movement. Here is your new position: (13, 17)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 13,16
+Great movement. Here is your new position: (13, 16)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north east
+>> go to 12,16
+Great movement. Here is your new position: (12, 16)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 11,16
+Great movement. Here is your new position: (11, 16)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: south west east
+>> go to 11,15
+Great movement. Here is your new position: (11, 15)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 11,14
+Great movement. Here is your new position: (11, 14)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 11,13
+Great movement. Here is your new position: (11, 13)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 11,12
+Great movement. Here is your new position: (11, 12)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 11,9
+Great movement. Here is your new position: (11, 9)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north
+>> go to 11,11
+Great movement. Here is your new position: (11, 11)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 7,11
+Great movement. Here is your new position: (7, 11)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 7,12
+Great movement. Here is your new position: (7, 12)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 7,13
+Great movement. Here is your new position: (7, 13)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 7,14
+Great movement. Here is your new position: (7, 14)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south east
+>> go to 6,14
+Great movement. Here is your new position: (6, 14)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 5,14
+Great movement. Here is your new position: (5, 14)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 4,14
+Great movement. Here is your new position: (4, 14)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north west east
+>> go to 3,14
+Great movement. Here is your new position: (3, 14)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 2,14
+Great movement. Here is your new position: (2, 14)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: south west east
+>> go to 1,14
+Great movement. Here is your new position: (1, 14)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 0,14
+Great movement. Here is your new position: (0, 14)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west
+>> go to 2,13
+Great movement. Here is your new position: (2, 13)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 2,12
+Great movement. Here is your new position: (2, 12)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 2,11
+Great movement. Here is your new position: (2, 11)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 2,10
+Great movement. Here is your new position: (2, 10)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 2,9
+Great movement. Here is your new position: (2, 9)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 2,8
+Great movement. Here is your new position: (2, 8)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 4,15
+Great movement. Here is your new position: (4, 15)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 4,16
+Great movement. Here is your new position: (4, 16)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 4,17
+Great movement. Here is your new position: (4, 17)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south east
+>> go to 3,17
+Great movement. Here is your new position: (3, 17)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 2,17
+Great movement. Here is your new position: (2, 17)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 1,17
+Great movement. Here is your new position: (1, 17)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 0,17
+Great movement. Here is your new position: (0, 17)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west
+>> go to 4,18
+Great movement. Here is your new position: (4, 18)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 4,19
+Great movement. Here is your new position: (4, 19)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: south
+>> go to 7,15
+Great movement. Here is your new position: (7, 15)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 7,16
+Great movement. Here is your new position: (7, 16)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south west
+>> go to 8,16
+Great movement. Here is your new position: (8, 16)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 9,16
+Great movement. Here is your new position: (9, 16)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 7,17
+Great movement. Here is your new position: (7, 17)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 7,18
+Great movement. Here is your new position: (7, 18)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 7,19
+Great movement. Here is your new position: (7, 19)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: south
+>> go to 2,7
+Great movement. Here is your new position: (2, 7)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north west east
+>> go to 1,7
+Great movement. Here is your new position: (1, 7)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 0,7
+Great movement. Here is your new position: (0, 7)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west
+>> go to 8,3
+Great movement. Here is your new position: (8, 3)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west
+>> go to 11,1
+Great movement. Here is your new position: (11, 1)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 13,9
+Great movement. Here is your new position: (13, 9)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 13,8
+Great movement. Here is your new position: (13, 8)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north west
+>> go to 14,8
+Great movement. Here is your new position: (14, 8)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 15,8
+Great movement. Here is your new position: (15, 8)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 16,8
+Great movement. Here is your new position: (16, 8)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: south east
+>> go to 16,7
+Great movement. Here is your new position: (16, 7)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 16,6
+Great movement. Here is your new position: (16, 6)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north west
+>> go to 17,6
+Great movement. Here is your new position: (17, 6)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: south east
+>> go to 17,5
+Great movement. Here is your new position: (17, 5)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 17,4
+Great movement. Here is your new position: (17, 4)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north west
+>> go to 18,4
+Great movement. Here is your new position: (18, 4)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 19,4
+Great movement. Here is your new position: (19, 4)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: east
+>> go to 17,11
+Great movement. Here is your new position: (17, 11)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 18,11
+Great movement. Here is your new position: (18, 11)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: south west east
+>> go to 19,11
+Great movement. Here is your new position: (19, 11)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north east
+>> go to 19,12
+Great movement. Here is your new position: (19, 12)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: south
+>> go to 18,10
+Great movement. Here is your new position: (18, 10)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 18,9
+Great movement. Here is your new position: (18, 9)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north south
+>> go to 18,8
+Great movement. Here is your new position: (18, 8)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: north west
+>> go to 19,8
+Great movement. Here is your new position: (19, 8)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: east
+>> go to 15,14
+Great movement. Here is your new position: (15, 14)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 14,14
+Great movement. Here is your new position: (14, 14)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+>> go to 13,14
+Great movement. Here is your new position: (13, 14)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west
+>> go to 10,16
+Great movement. Here is your new position: (10, 16)
+>> is exit?
+No. Sorry, traveller...
+>> look
+Well, well, well, my friend. You could do these movements: west east
+..............................
+..............................
+..............................
+..............................
+..............................
+..............................
+..............................
+..............................
+..............................
+..............................
+..............................
+..............................
+..............................
+..............................
+..............................
+..............................
+..............................
+..............................
+..............................
+.................X............
+..............................
+..............................
+..............................
+..............................
+..............................
+..............................
+..............................
+..............................
+..............................
+..............................
+(19, 17)
+(19, 16)
+(19, 15)
+(19, 14)
+(18, 14)
+(17, 14)
+(16, 14)
+(16, 13)
+(16, 12)
+(16, 11)
+(15, 11)
+(14, 11)
+(13, 11)
+(13, 10)
+(12, 10)
+(11, 10)
+(10, 10)
+(9, 10)
+(8, 10)
+(7, 10)
+(7, 9)
+(7, 8)
+(7, 7)
+(6, 7)
+(6, 6)
+(6, 5)
+(6, 4)
+(5, 4)
+(4, 4)
+(3, 4)
+(2, 4)
+(2, 3)
+(2, 2)
+(1, 2)
+(1, 1)
+(1, 0)
+(0, 0), (1, 0), (1, 1), (1, 2), (2, 2), (2, 3), (2, 4), (3, 4), (4, 4), (5, 4), (6, 4), (6, 5), (6, 6), (6, 7), (7, 7), (7, 8), (7, 9), (7, 10), (8, 10), (9, 10), (10, 10), (11, 10), (12, 10), (13, 10), (13, 11), (14, 11), (15, 11), (16, 11), (16, 12), (16, 13), (16, 14), (17, 14), (18, 14), (19, 14), (19, 15), (19, 16), (19, 17)
